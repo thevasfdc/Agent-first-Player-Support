@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataCategoryGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <dataCategory>
+        <dataCategory>
+            <label>Purchases &amp; Billing</label>
+            <name>Purchases_Billing</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Account &amp; Login</label>
+            <name>Account_Login</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Technical</label>
+            <name>Technical</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Company News</label>
+            <name>Company_News</name>
+        </dataCategory>
+        <label>All</label>
+        <name>All</name>
+    </dataCategory>
+    <description>Player support categories for Nova Games.</description>
+    <label>Nova Support</label>
+    <objectUsage>
+        <object>KnowledgeArticleVersion</object>
+    </objectUsage>
+</DataCategoryGroup>

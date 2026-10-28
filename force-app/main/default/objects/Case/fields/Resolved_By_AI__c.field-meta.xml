@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Resolved_By_AI__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>True when the Service Agent resolved the case without a human.</description>
+    <label>Resolved by AI</label>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

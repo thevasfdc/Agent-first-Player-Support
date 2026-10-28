@@ -1,0 +1,81 @@
+{
+  "type": "sfdc_cms__view",
+  "title": "Home",
+  "contentBody": {
+    "component": {
+      "children": [
+        {
+          "children": [
+            {
+              "attributes": {
+                "backgroundImageConfig": "",
+                "backgroundImageOverlay": "rgba(0,0,0,0)",
+                "componentSpacerSize": "",
+                "layoutDirectionDesktop": "row",
+                "layoutDirectionMobile": "column",
+                "layoutDirectionTablet": "column",
+                "maxContentWidth": "",
+                "sectionColumnGutterWidth": "",
+                "sectionConfig": "{\"UUID\":\"9698e3a4-e5d2-49b5-8a5e-4f06fa78ca2a\",\"columns\":[{\"UUID\":\"106084ac-8c68-4e9e-bfcd-861d3ad6e896\",\"columnName\":\"Column 1\",\"columnKey\":\"col1\",\"columnWidth\":\"12\",\"seedComponents\":null}]}",
+                "sectionMinHeight": "",
+                "sectionVerticalAlign": "flex-start"
+              },
+              "children": [
+                {
+                  "children": [
+                    {
+                      "attributes": {
+                        "imageInfos": "",
+                        "richTextValue": "<div style=\"font-family:inherit;\"><div style=\"background:linear-gradient(135deg,#140b2e 0%,#2e1d75 60%,#6d28d9 100%);border-radius:18px;padding:56px 40px;margin:24px 0 32px;color:#ffffff;text-align:left;\"><div style=\"font-size:13px;letter-spacing:2px;font-weight:700;color:#c4b5fd;margin-bottom:12px;\">NOVA GAMES &middot; PLAYER SUPPORT</div><h1 style=\"font-size:40px;line-height:1.15;font-weight:800;margin:0 0 14px;color:#ffffff;\">Stuck in the game? Nova has your back.</h1><p style=\"font-size:17px;line-height:1.6;max-width:640px;margin:0 0 24px;color:#e9e3ff;\">Chat with Nova, our AI support agent, any time. Nova fixes common problems in minutes and brings in a specialist for account security and billing, with your case already filled in.</p><div style=\"display:inline-block;background:#ffffff;color:#2e1d75;font-weight:700;font-size:15px;border-radius:999px;padding:12px 22px;\">Start a chat with the button at the bottom right</div><span style=\"display:inline-block;margin-left:16px;font-size:14px;color:#c4b5fd;\">Available 24/7</span></div><div style=\"font-size:22px;font-weight:700;color:#140b2e;margin:0 0 16px;text-align:left;\">What Nova can help with</div><div style=\"display:flex;flex-wrap:wrap;gap:20px;justify-content:flex-start;margin-bottom:36px;\"><div style=\"flex:1 1 260px;background:#ffffff;border:1px solid #e4def7;border-radius:14px;padding:22px 22px 18px;box-shadow:0 6px 18px rgba(46,29,117,0.08);text-align:left;\"><div style=\"font-size:18px;font-weight:700;color:#2e1d75;margin-bottom:8px;\">Purchases &amp; Billing</div><div style=\"font-size:14px;line-height:1.5;color:#3d3a4a;margin-bottom:14px;\">Missing gems or bundles, refunds and receipts. Disputed charges go straight to our billing team.</div><div style=\"font-size:13px;color:#6d28d9;background:#f3effe;border-radius:8px;padding:8px 10px;\">Try: &ldquo;I bought 1,000 gems and they never showed up&rdquo;</div></div><div style=\"flex:1 1 260px;background:#ffffff;border:1px solid #e4def7;border-radius:14px;padding:22px 22px 18px;box-shadow:0 6px 18px rgba(46,29,117,0.08);text-align:left;\"><div style=\"font-size:18px;font-weight:700;color:#2e1d75;margin-bottom:8px;\">Account &amp; Login</div><div style=\"font-size:14px;line-height:1.5;color:#3d3a4a;margin-bottom:14px;\">Password resets and sign-in problems. If your account was hacked, a security specialist takes over.</div><div style=\"font-size:13px;color:#6d28d9;background:#f3effe;border-radius:8px;padding:8px 10px;\">Try: &ldquo;Someone changed my email and I can&rsquo;t log in&rdquo;</div></div><div style=\"flex:1 1 260px;background:#ffffff;border:1px solid #e4def7;border-radius:14px;padding:22px 22px 18px;box-shadow:0 6px 18px rgba(46,29,117,0.08);text-align:left;\"><div style=\"font-size:18px;font-weight:700;color:#2e1d75;margin-bottom:8px;\">Technical</div><div style=\"font-size:14px;line-height:1.5;color:#3d3a4a;margin-bottom:14px;\">Crashes, lag and connection errors on PC, PlayStation, Xbox, Switch and mobile.</div><div style=\"font-size:13px;color:#6d28d9;background:#f3effe;border-radius:8px;padding:8px 10px;\">Try: &ldquo;My game crashes on launch&rdquo;</div></div></div><div style=\"background:#f7f5fd;border-radius:16px;padding:26px 28px;margin-bottom:28px;\"><div style=\"font-size:18px;font-weight:700;color:#140b2e;margin-bottom:16px;text-align:left;\">How it works</div><div style=\"display:flex;flex-wrap:wrap;gap:20px;\"><div style=\"flex:1 1 220px;display:flex;gap:12px;align-items:flex-start;text-align:left;\"><div style=\"min-width:32px;height:32px;border-radius:16px;background:#6d28d9;color:#ffffff;font-weight:700;display:flex;align-items:center;justify-content:center;\">1</div><div style=\"font-size:14px;line-height:1.5;color:#3d3a4a;padding-top:5px;\">Tell Nova what went wrong.</div></div><div style=\"flex:1 1 220px;display:flex;gap:12px;align-items:flex-start;text-align:left;\"><div style=\"min-width:32px;height:32px;border-radius:16px;background:#6d28d9;color:#ffffff;font-weight:700;display:flex;align-items:center;justify-content:center;\">2</div><div style=\"font-size:14px;line-height:1.5;color:#3d3a4a;padding-top:5px;\">Share your player ID and platform, just once.</div></div><div style=\"flex:1 1 220px;display:flex;gap:12px;align-items:flex-start;text-align:left;\"><div style=\"min-width:32px;height:32px;border-radius:16px;background:#6d28d9;color:#ffffff;font-weight:700;display:flex;align-items:center;justify-content:center;\">3</div><div style=\"font-size:14px;line-height:1.5;color:#3d3a4a;padding-top:5px;\">Get step-by-step help, or a human specialist who already knows your case.</div></div></div></div><div style=\"font-size:12px;color:#8a8598;text-align:center;margin-bottom:24px;\">Nova Games is a fictional brand used for a Salesforce Agentforce demo.</div></div>"
+                      },
+                      "definition": "community_builder:htmlEditor",
+                      "id": "6ba3d1d4-a09e-4182-8500-d1c30649a110",
+                      "type": "component"
+                    }
+                  ],
+                  "id": "106084ac-8c68-4e9e-bfcd-861d3ad6e896",
+                  "name": "col1",
+                  "title": "Column 1",
+                  "type": "region"
+                }
+              ],
+              "definition": "community_layout:section",
+              "id": "9698e3a4-e5d2-49b5-8a5e-4f06fa78ca2a",
+              "type": "component"
+            }
+          ],
+          "id": "db18f70c-f395-4dc1-87a9-d0609f793395",
+          "name": "content",
+          "title": "Content",
+          "type": "region"
+        },
+        {
+          "children": [
+            {
+              "attributes": {
+                "customHeadTags": "",
+                "description": "",
+                "pageTitle": "Nova Games Player Support",
+                "recordId": "{!recordId}"
+              },
+              "definition": "community_builder:seoAssistant",
+              "id": "835973b8-04ff-4f03-a7d8-cdf136122b69",
+              "type": "component"
+            }
+          ],
+          "id": "ff0eee94-8f31-488a-9a38-d579bf1d0394",
+          "name": "sfdcHiddenRegion",
+          "title": "sfdcHiddenRegion",
+          "type": "region"
+        }
+      ],
+      "definition": "community_layout:sldsFlexibleLayout",
+      "id": "352ad620-64e5-474e-a644-acf9e8bc8b2e",
+      "type": "component"
+    },
+    "dataProviders": [],
+    "themeLayoutType": "Inner",
+    "viewType": "home"
+  },
+  "urlName": "home"
+}

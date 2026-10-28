@@ -1,0 +1,16 @@
+{
+  "type" : "sfdc_cms__trustedSites",
+  "title" : "trustedSites",
+  "contentBody" : {
+    "trustedSites" : [ {
+      "isActive" : true,
+      "source" : "https://your-domain.my.site.com",
+      "sourceName" : "hosts bootstrap"
+    }, {
+      "isActive" : true,
+      "source" : "https://your-domain.my.salesforce-scrt.com",
+      "sourceName" : "carries messaging traffic"
+    } ]
+  },
+  "urlName" : "trustedsites"
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Escalation_Reason__c</fullName>
+    <description>Why the Service Agent handed the chat to a human.</description>
+    <label>Escalation Reason</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Customer requested human</fullName>
+                <default>false</default>
+                <label>Customer requested human</label>
+            </value>
+            <value>
+                <fullName>Account security</fullName>
+                <default>false</default>
+                <label>Account security</label>
+            </value>
+            <value>
+                <fullName>Payment dispute</fullName>
+                <default>false</default>
+                <label>Payment dispute</label>
+            </value>
+            <value>
+                <fullName>No answer found</fullName>
+                <default>false</default>
+                <label>No answer found</label>
+            </value>
+            <value>
+                <fullName>Negative sentiment</fullName>
+                <default>false</default>
+                <label>Negative sentiment</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

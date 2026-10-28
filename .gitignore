@@ -1,0 +1,11 @@
+# Salesforce CLI
+.sf/
+.sfdx/
+.localdevserver/
+# Node / tooling
+node_modules/
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+*.log

@@ -1,0 +1,58 @@
+[
+  {
+    "Title": "Purchased gems or items did not arrive",
+    "UrlName": "missing-in-game-purchase",
+    "Category": "Purchases_Billing",
+    "Publish": true,
+    "Summary": "What to do when a completed in-game purchase (gems, coins, bundles) does not show up in the player's inventory.",
+    "Answer": "<p>Most missing purchases appear within 30 minutes. Ask the player to try these steps in order:</p><ol><li>Fully close the game and sign back in with the same account that made the purchase.</li><li>Open <b>Store &gt; Restore Purchases</b> (mobile) or <b>Settings &gt; Account &gt; Sync Purchases</b> (PC and console).</li><li>Check the platform receipt (PlayStation Store, Xbox, Steam, App Store or Google Play) and confirm the purchase completed and was charged once.</li><li>If it still has not arrived after 30 minutes, collect the <b>order or receipt ID</b>, the platform and the purchase time.</li></ol><p>If the player was charged but the items are still missing after the steps above, escalate to an advisor with the receipt ID so the purchase can be granted manually.</p>"
+  },
+  {
+    "Title": "Refund policy for in-game purchases",
+    "UrlName": "refund-policy",
+    "Category": "Purchases_Billing",
+    "Publish": true,
+    "Summary": "Nova Games refund rules for virtual currency, bundles and accidental purchases.",
+    "Answer": "<p>Nova Games can refund a purchase when:</p><ul><li>It was made in the last <b>14 days</b>, and</li><li>The virtual currency or items have <b>not been spent or used</b>.</li></ul><p>Purchases made through console or mobile stores are refunded by the store itself (PlayStation, Xbox, Apple or Google). Share the store's refund link with the player.</p><p>Chargebacks and disputed payments are handled by the billing team, so always hand these to an advisor.</p>"
+  },
+  {
+    "Title": "Reset your password or recover your account",
+    "UrlName": "password-reset",
+    "Category": "Account_Login",
+    "Publish": true,
+    "Summary": "Steps for players who forgot their password or cannot sign in.",
+    "Answer": "<ol><li>On the sign-in screen, select <b>Forgot password</b>.</li><li>Enter the email address on the Nova Games account. The reset link arrives within 5 minutes; ask the player to check spam.</li><li>The link expires after 1 hour. Request a new one if it has expired.</li><li>After resetting, turn on <b>two-step verification</b> in Account Settings.</li></ol><p>If the player no longer has access to the email on the account, or says someone else changed it, do not troubleshoot: treat it as an account security case and hand it to an advisor.</p>"
+  },
+  {
+    "Title": "Account compromised or email changed without permission",
+    "UrlName": "account-compromised",
+    "Category": "Account_Login",
+    "Publish": true,
+    "Summary": "Advisor procedure for hacked accounts. AI agents must escalate these to a human.",
+    "Answer": "<p><b>AI agents: always escalate these to a human advisor.</b></p><p>Advisor steps:</p><ol><li>Verify ownership: the original account email, the player ID, and the date and platform of the last purchase.</li><li>Lock the account to stop further changes.</li><li>Restore the original email and force a password reset.</li><li>Review recent purchases and trades. Reverse unauthorised activity and note it on the case.</li><li>Turn on two-step verification with the player while they are still in the chat.</li><li>Close the case with resolution notes. Set Priority to High if purchases were made.</li></ol>"
+  },
+  {
+    "Title": "Game crashes on launch",
+    "UrlName": "crash-on-launch",
+    "Category": "Technical",
+    "Publish": true,
+    "Summary": "Troubleshooting for crashes at start-up on PC, console and mobile.",
+    "Answer": "<ol><li>Install the latest game update and restart the device.</li><li><b>PC:</b> update graphics drivers, then verify the game files in the launcher (Steam: right-click the game &gt; Properties &gt; Installed Files &gt; Verify).</li><li><b>Console:</b> clear the reserved space or cache, then restart.</li><li><b>Mobile:</b> free at least 2 GB of storage and clear the app cache.</li><li>If it still crashes, collect the platform, device model and any error code, and hand it to an advisor.</li></ol>"
+  },
+  {
+    "Title": "Cannot connect to game servers",
+    "UrlName": "connection-issues",
+    "Category": "Technical",
+    "Publish": true,
+    "Summary": "Fixes for disconnects, lag and 'unable to reach server' errors.",
+    "Answer": "<ol><li>Check the server status page for outages or maintenance.</li><li>Restart the router and the device. Switch to a wired connection if possible.</li><li>Make sure the console or PC is not on a VPN or proxy.</li><li>Set NAT type to Open (console) or allow the game through the firewall (PC).</li></ol><p>If there is no outage and the problem continues for more than 24 hours, collect the error code and hand it to an advisor.</p>"
+  },
+  {
+    "Title": "Season 5 battle pass rewards (DRAFT - not reviewed)",
+    "UrlName": "season-5-battle-pass-draft",
+    "Category": "Purchases_Billing",
+    "Publish": false,
+    "Summary": "Draft article that is not yet approved. Used to show that drafts never reach AI answers.",
+    "Answer": "<p>DRAFT: reward tiers are still being finalised. Do not share with players.</p>"
+  }
+]
